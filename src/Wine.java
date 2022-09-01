@@ -11,6 +11,11 @@ public class Wine{
         int prod=k*l;
         System.out.println(prod);
 
+
+
+
+        int prodAndSum=prod+sum +1;
+
     }
   //wine the best wine
   //this is a changegit chekout
