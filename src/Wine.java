@@ -10,6 +10,8 @@ public class Wine{
         int l=10;
         int prod=k*l;
         System.out.println(prod);
+        
+        int prodSum=sum+prod;
 
     }
   //wine the best wine
