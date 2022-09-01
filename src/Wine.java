@@ -12,6 +12,7 @@ public class Wine{
         System.out.println(prod);
         
         int prodSum=sum+prod;
+        int devide=prod-sum-1;
 
 
 
