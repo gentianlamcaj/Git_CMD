@@ -12,12 +12,13 @@ public class Wine{
         System.out.println(prod);
         
         int prodSum=sum+prod;
+        int devide=prod-sum-1;
 
 
 
 
         int prodAndSum=prod+sum +1;
-        int devide=prod-sum;
+
 
     }
   //wine the best wine
