@@ -6,7 +6,12 @@ public class Wine{
         int sum=a+b;
         System.out.println(sum);
 
+        int k=5;
+        int l=10;
+        int prod=k*l;
+        System.out.println(prod);
+
     }
   //wine the best wine
-  //this is a change
+  //this is a changegit chekout
 }
