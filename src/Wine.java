@@ -17,6 +17,7 @@ public class Wine{
 
 
         int prodAndSum=prod+sum +1;
+        int devide=prod-sum;
 
     }
   //wine the best wine
