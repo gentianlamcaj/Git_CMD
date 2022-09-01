@@ -13,6 +13,11 @@ public class Wine{
         
         int prodSum=sum+prod;
 
+
+
+
+        int prodAndSum=prod+sum +1;
+
     }
   //wine the best wine
   //this is a changegit chekout
